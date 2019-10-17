@@ -1,4 +1,4 @@
- Description        | Link           |
+|Description        | Link           |
 | ------------- |-------------|
 | Interactive art studios     | https://github.com/tomluyten/interactive-art-studios |
 | Interactive art in Health Care     | https://github.com/tomluyten/Interactive-art-in-health-care      | 
