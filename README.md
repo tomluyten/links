@@ -1,5 +1,5 @@
 # Overview of all link repos on this account
-## Interactive art, creative coding and health care
+### Interactive art, creative coding and health care
 
 - [Interactive art studios](https://github.com/tomluyten/interactive-art-studios)
 - [Interactive art in Health Care](https://github.com/tomluyten/Interactive-art-in-health-care)
